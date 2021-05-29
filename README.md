@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Front-end developer who is open to learning new technologies.
+
+You can reach me: [LinkedIn](https://www.linkedin.com/in/fatihalperenaslan/)
+
+
 <!--
 **git-Alp/git-Alp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
