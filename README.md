@@ -4,7 +4,7 @@ Front-end developer who is open to learning new technologies.
 
 You can reach me: [LinkedIn](https://www.linkedin.com/in/fatihalperenaslan/)
 
-https://api.daily.dev/devcards/98070003b9884cb1a4561d20f7584938.png?r=y3e
+<a href="https://app.daily.dev/alp"><img src="https://api.daily.dev/devcards/98070003b9884cb1a4561d20f7584938.png?r=4qg" width="400" alt="Alperen Aslan's Dev Card"/></a>
 
 <!--
 **git-Alp/git-Alp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
