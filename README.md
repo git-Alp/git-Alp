@@ -4,7 +4,7 @@ Front-end developer who is open to learning new technologies.
 
 You can reach me: [LinkedIn](https://www.linkedin.com/in/fatihalperenaslan/)
 
-https://www.preprod.hilton.com.tr/assets/script/home.js?1664442774849
+https://api.daily.dev/devcards/98070003b9884cb1a4561d20f7584938.png?r=y3e
 
 <!--
 **git-Alp/git-Alp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
